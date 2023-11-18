@@ -1,8 +1,5 @@
 # PyroFilesStoreBot
-This is Telegram Parmanent Files Store Bot by [@AbirHasan2005](https://github.com/AbirHasan2005).
-
-* **Language:** [Python3](https://www.python.org)
-* **Library:** [Pyrogram](https://docs.pyrogram.org)
+This is Telegram Parmanent Files Store Bot By TG@NUMBER03ANURAG
 
 ### Features:
 - In PM Just Forward or Send any file it will save on Database & give you the Access Link.
