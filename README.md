@@ -1,6 +1,8 @@
 # PyroFilesStoreBot
 This is Telegram Parmanent Files Store Bot By TG@NUMBER03ANURAG
 
+#DEPLOY :- https://heroku.com/deploy?template=https://github.com/ALiENxBEN/BENfileshare
+
 ### Features:
 - In PM Just Forward or Send any file it will save on Database & give you the Access Link.
 - In Channel Add Bot as Admin with Edit Rights. When you will send any file or media in Channel it will Edit the Broadcast Message with Saved Link Button.
